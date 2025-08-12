@@ -1,2 +1,2 @@
 # EasyOrderAula
-Aula de DevOps da Uninter
+Aula de DevOps e Integracao continua da Uninter
